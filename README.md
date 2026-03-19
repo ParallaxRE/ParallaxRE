@@ -11,7 +11,9 @@ Sistemlerin sadece yazılım katmanıyla değil, silikon seviyesindeki ruhuyla (
 
 ### 🛠️ Hardware & Systems Focus
  **Low-Level Architecture:** RAM/ROM structures, Timing Diagrams, Bus Protocols.
+ 
  **Security:** Malware Analysis, Reverse Engineering (RE), System Hardening.
+ 
  **Goal:** Bridging the gap between physical hardware and cyber defense.
 
 ### 🛡️ Live TryHackMe Stats
