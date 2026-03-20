@@ -8,7 +8,7 @@
 
 *"Analyzing the world, one clock cycle at a time."*
 
-Sistemlerin sadece yazılım katmanıyla değil, silikon seviyesindeki ruhuyla (RAM/ROM) ilgilenen, zararlı yazılımların donanım üzerindeki ayak izlerini takip etmeye kafayı takmış bir sistem analistiyim.
+Sistemlerin sadece yazılım katmanıyla değil, silisyum seviyesindeki ruhuyla (RAM/ROM) ilgilenen, zararlı yazılımların donanım üzerindeki ayak izlerini takip etmeye kafayı takmış bir sistem analistiyim.
 
 ---
 
