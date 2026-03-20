@@ -1,3 +1,6 @@
+![ejderha](https://github.com/user-attachments/assets/bedc08e4-b260-40cb-867e-71fba2cb5810)
+
+
 <div align="center">
 
 # ⚡ Hello, I'm Taha (ParallaxRE)
@@ -22,4 +25,3 @@ Sistemlerin sadece yazılım katmanıyla değil, silikon seviyesindeki ruhuyla (
 ---
 </div>
 
-![ejderha](https://github.com/user-attachments/assets/bedc08e4-b260-40cb-867e-71fba2cb5810)
