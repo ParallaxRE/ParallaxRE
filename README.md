@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# ⚡ Hello, I'm Taha (ParallaxRE)
+# Hi, I'm Taha (ParallaxRE)
 ### **System & Malware Analyst | Hardware Architecture Enthusiast**
 
 *"Analyzing the world, one clock cycle at a time."*
